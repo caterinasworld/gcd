@@ -12,7 +12,7 @@ def binary_gcd_loops(a, b):
     if (b == 0):
         return a
 
-    # Find greatest power of 2 dividing both u and v
+    # Find greatest power of 2 dividing both a and b
     while (((a | b) & 1) == 0):
         a = a >> 1
         b = b >> 1

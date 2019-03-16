@@ -17,7 +17,7 @@ def euclid_sub(a, b):
         else:
             b = b - a
 
-    return a
+    return a # or b
 
 
 def euclid_rec(a, b):
