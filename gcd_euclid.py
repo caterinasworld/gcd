@@ -1,4 +1,6 @@
-# implementation based on https://en.wikipedia.org/wiki/Euclidean_algorithm
+# implementation based on:
+# - Knuth, D. E. (1997). The Art of Computer Programming, Volume 2: Seminumerical Algorithms (3rd ed.). Addison–Wesley.
+# - Stillwell, J. (1997). Numbers and Geometry. New York: Springer-Verlag.
 
 def euclid_div(a, b):
 

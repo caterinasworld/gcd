@@ -1,3 +1,5 @@
+# implementation based on "A Comparison of Several Greatest Common Divisor Algorithms"
+# http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.1877&rep=rep1&type=pdf
 
 def brute_force(a, b):
 

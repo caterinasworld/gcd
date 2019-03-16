@@ -1,5 +1,6 @@
-# implementation based on https://en.wikipedia.org/wiki/Binary_GCD_algorithm
-# using variables a and b instead of u and v for consistency
+# implementation based on:
+# - Knuth, D. E. (1997). The Art of Computer Programming, Volume 2: Seminumerical Algorithms (3rd ed.). Addison–Wesley.
+#  using variables a and b instead of u and v for consistency
 
 def binary_gcd_loops(a, b):
 
