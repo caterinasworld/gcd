@@ -123,7 +123,7 @@ def run_all(x):
 def main():
 
     # set number of bits for algorithms -- 2^x
-    x = 21
+    x = 5
     # set loops for run_algos()
     # I have used 5, 10, 20, and 100
     loops = 10
